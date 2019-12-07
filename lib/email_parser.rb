@@ -14,7 +14,7 @@ class EmailAddressParser
   end
   
   def parse
-    
+    binging.pry
   end 
   
 end
