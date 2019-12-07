@@ -11,8 +11,6 @@ class EmailAddressParser
   
   def initialize(email_addresses)
     @email_addresses = email_addresses
-    
-  binding.pry
   end
   
   def parse
