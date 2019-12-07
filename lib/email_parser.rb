@@ -14,7 +14,9 @@ class EmailAddressParser
   end
   
   def parse
-    binding.pry
+    
   end 
+  
+  binding.pry
   
 end
